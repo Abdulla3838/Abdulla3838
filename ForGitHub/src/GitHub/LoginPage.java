@@ -6,7 +6,7 @@ public class LoginPage {
 	{
 		System.out.println("Hiiiertyui");
 		System.out.println("hello");
-        System.out.println("updated");
+                System.out.println("updated");
 		int b=1000;
 	}
 
