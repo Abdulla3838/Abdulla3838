@@ -19,5 +19,12 @@ public static void add()
 	int a=100;
 	int b=300;
 	System.out.println(a+b);
+
+	
 }
+	public static void sub()
+	{
+	int a=100;
+		int c=a;
+		System.out.println(res=a-c);
 }
