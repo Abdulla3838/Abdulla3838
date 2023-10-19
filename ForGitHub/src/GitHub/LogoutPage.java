@@ -8,5 +8,10 @@ public class LogoutPage {
 		
 		System.out.println("abcd");
 	}
-
+	public static void add12345()
+	{
+		int a=100;
+		int b=300;
+		System.out.println(a+b);
+	}
 }
